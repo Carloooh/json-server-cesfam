@@ -1,0 +1,9 @@
+{
+  "medicamentos": [
+    {
+      "codigo": 1,
+      "nombre": "Programación",
+      "cantidad": "Nancy"
+    }
+  ]
+}
